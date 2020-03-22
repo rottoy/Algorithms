@@ -1,6 +1,6 @@
 /*
 #include<iostream>
-
+#include<algorithm>
 using namespace std;
 int d[12];
 int main() {
