@@ -1,4 +1,4 @@
-/*
+/*ぞしぞし
 #include<iostream>
 
 using namespace std;
